@@ -1,4 +1,4 @@
 planets
 =======
 
-UCT eResearch Software Carpentry workshop repository
+UCT eResearch Software Carpentry Workshop Repository
